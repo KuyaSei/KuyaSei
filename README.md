@@ -34,13 +34,13 @@ anthonyjamesplaza@gmail.com | anthonyjames.plaza.21@usjr.edu.ph
 
 ### GitHub Stats
 
-[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
+[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuyaSei&show_icons=true&theme=tokyonight)](https://github.com/KuyaSei/github-readme-stats)
 
 ---
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuyaSei&layout=compact&theme=tokyonight)](https://github.com/KuyaSei/github-readme-stats)
 
 ---
 
@@ -53,8 +53,8 @@ anthonyjamesplaza@gmail.com | anthonyjames.plaza.21@usjr.edu.ph
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KuyaSei)
 
 ---
 
@@ -62,7 +62,7 @@ anthonyjamesplaza@gmail.com | anthonyjames.plaza.21@usjr.edu.ph
 
 If you like my work, consider supporting me:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/your-coffee-link)
+
 
 
 <!---

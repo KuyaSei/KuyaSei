@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuyaSei
 - 👀 I’m interested in learning Computer Science and plays Valorant in the meantime
-- 🌱 I’m currently learning GitHub particularly on how to use it 
-- 💞️ I’m looking to collaborate on an upcoming project by my cousin
+- 🌱 
+- 💞️
 - 📫 How to reach me is through my gmail (anthonyjamesplaza@gmail.com)
 
 <!---

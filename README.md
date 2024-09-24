@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @KuyaSei
+- 👋 Hi there!
+
+My name is AJ, I am an USJR trained Computer Science undergrad (currently in studies) interested in all things Artificial Intelligence and Mobile Apps Development!
 - 👀 I’m interested in learning Computer Science and plays Valorant in the meantime
 - 🌱 
 - 💞️

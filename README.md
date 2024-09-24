@@ -48,12 +48,6 @@ anthonyjamesplaza@gmail.com | anthonyjames.plaza.21@usjr.edu.ph
 
 ---
 
-### Profile Views
-
-![Profile views](https://gpvc.arturio.dev/KuyaSei)
-
----
-
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
@@ -65,6 +59,8 @@ anthonyjamesplaza@gmail.com | anthonyjames.plaza.21@usjr.edu.ph
 ### Support me
 
 If you appreciate my work, consider supporting me via email:
+
+
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?color=red&style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyjamesplaza@gmail.com)
 
 

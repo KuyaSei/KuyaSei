@@ -8,9 +8,9 @@
 - Back-end Development (Python)
 - Front-end Development (Ionic)
 
-💡 Recent projects:
+<!--💡 Recent projects:
 - Responsive webpage for mobile development
-- Information architecture for HRIS Systems payroll system
+- Information architecture for HRIS Systems payroll system -->
 
 🤝 Collaboration interests:
 AI-powered applications | Mobile-first designs | Intelligent systems
